@@ -1,10 +1,10 @@
 # sleep-utils
 
-Your Sleep Library is a utility package for handling asynchronous sleep operations in both JavaScript (JS) and TypeScript (TS) environments. It provides functions to pause the execution of code for a specified amount of time, making it useful in scenarios where you need to introduce delays or pauses in your applications.
+sleep-utils is a utility package for handling asynchronous sleep operations in both JavaScript (JS) and TypeScript (TS) environments. It provides functions to pause the execution of code for a specified amount of time, making it useful in scenarios where you need to introduce delays or pauses in your applications.
 
 ## Installation
 
-You can install Your Sleep Library using npm:
+You can install sleep-utils using npm:
 
 ```bash
 npm install sleep-utils
