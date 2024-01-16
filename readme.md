@@ -7,8 +7,7 @@ sleep-utils is a utility package for handling asynchronous sleep operations in b
 You can install sleep-utils using npm:
 
 ```bash
-npm install sleep-utils
-
+$ npm install sleep-utils
 ```
 
 ## Usage

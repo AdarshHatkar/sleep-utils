@@ -14,9 +14,6 @@
     "coverage": "vitest run --coverage",
     "release": "release-it"
   },
-  "keywords": [],
-  "author": "Adarsh Hatkar  (http://primexop.com)",
-  "license": "MIT",
   "devDependencies": {
     "@parcel/packager-ts": "^2.11.0",
     "@parcel/transformer-typescript-types": "^2.11.0",
@@ -25,5 +22,24 @@
     "release-it": "^17.0.1",
     "typescript": "^5.3.3",
     "vitest": "^1.2.0"
-  }
+  },
+  "author": "Adarsh Hatkar  (http://primexop.com)",
+  "license": "MIT",
+  "keywords": [
+    "sleep",
+    "delay",
+    "asynchronous",
+    "timer",
+    "timeout",
+    "await",
+    "pause",
+    "wait",
+    "time",
+    "scheduling",
+    "time-management",
+    "timeout-utils",
+    "timing",
+    "promise",
+    "utilities"
+  ]
 }
