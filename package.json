@@ -1,0 +1,25 @@
+{
+  "name": "sleep-utils",
+  "version": "1.0.0",
+  "description": "",
+  "isLibrary": true,
+  "source": "src/index.ts",
+  "type": "module",
+  "main": "dist/main.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "release": "dotenv release-it"
+  },
+  "keywords": [],
+  "author": "Adarsh Hatkar  (http://primexop.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/packager-ts": "^2.11.0",
+    "@parcel/transformer-typescript-types": "^2.11.0",
+    "parcel": "latest",
+    "release-it": "^17.0.1",
+    "typescript": "^5.3.3"
+  }
+}
